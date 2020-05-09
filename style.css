@@ -1,0 +1,14 @@
+body, html {
+    height: 100%;
+  }
+  
+.carousel-caption {
+    position: relative;
+    left: 0;
+    top: 0;
+}
+.carousel {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 950px; /* or 950px */
+  }
