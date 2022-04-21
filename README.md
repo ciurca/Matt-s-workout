@@ -1,7 +1,7 @@
 # Matt's Workout
 [![ProjectsBadge](https://img.shields.io/badge/ciurca-100DaysOfCode%20--%20Projects-blue)](https://github.com/ciurca/100-days-of-code)
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/raduciurca.svg?style=social&label=Follow%20%40raduciurca)](https://twitter.com/raduciurca)
-[![Website ciurca.github.io](https://img.shields.io/website-up-down-green-red/http/ciurca.github.io.svg)](http://ciurca.github.io/)
+[![Website ciurca.github.io](https://img.shields.io/website-up-down-green-red/https://mattsworkout.netlify.app.svg)](https://mattsworkout.netlify.app/)
 
 ## About
 
@@ -17,6 +17,6 @@ I made this website because I wanted to do his workout, but I didn't want to hav
 
 ![Workout Routine Program](/gifs/ss.png)
 
-For more information read [the disclaimer](https://ciurca.github.io/).
+For more information read [the disclaimer](https://mattsworkout.netlify.app/).
 
 Stay healthy, get ripped and exercise your most important muscles: **your biceps**.
