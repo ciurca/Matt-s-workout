@@ -1,7 +1,6 @@
 # Matt's Workout
 [![ProjectsBadge](https://img.shields.io/badge/ciurca-100DaysOfCode%20--%20Projects-blue)](https://github.com/ciurca/100-days-of-code)
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/raduciurca.svg?style=social&label=Follow%20%40raduciurca)](https://twitter.com/raduciurca)
-[![Website ciurca.github.io](https://img.shields.io/website-up-down-green-red/mattsworkout.netlify.app.svg)](https://mattsworkout.netlify.app/)
 
 ## About
 
